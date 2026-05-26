@@ -1,10 +1,7 @@
 <div align="center">
 💅 Beauty Bot for Tatyana
 Telegram-бот для онлайн-записи к мастеру красоты
-Show Image
-Show Image
-Show Image
-Show Image
+
 
 Клиент выбирает дату через интерактивный календарь, оставляет имя и телефон — мастер получает готовую запись. Без сторонних сервисов, всё в Telegram.
 
