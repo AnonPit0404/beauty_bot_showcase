@@ -108,8 +108,6 @@ beauty_bot/
 ## 👤 Автор
 **Антон Иванчиков** — *Junior QA Engineer*
 
-[![Telegram](https://shields.io)](https://t.me)
-[![GitHub](https://shields.io)](https://github.com/AnonPit0404)
 
 <div align="center">
 
