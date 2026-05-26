@@ -14,7 +14,7 @@
 
 | Главное меню | Запись |
 | :---: | :---: | :---: |
-| ![Главное меню](screenshots/menu.png)  | ![Запись](screenshots/confirm.png) |
+| ![Главное меню](screenshots:menu.png)  | ![Запись](screenshots:confirm.png) |
 
 ---
 
